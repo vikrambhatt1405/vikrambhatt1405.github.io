@@ -3,7 +3,8 @@ layout: default
 --- -->
 # Protocol buffers
 
-- Protocol buffers are Google's language-neutral, platform-neutral, extensible mechansim for serializing structured data. It's faster and simpler. It has support for
+>
+Protocol buffers are Google's language-neutral, platform-neutral, extensible mechansim for serializing structured data. It's faster and simpler. It has support for
 C++, C#, DART, GO, JAVA, PYTHON.
 
 - With protocol buffers, you write a ```.proto``` description of the data structure you want to store.
