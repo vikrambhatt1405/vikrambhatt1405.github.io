@@ -14,4 +14,7 @@ C++, C#, DART, GO, JAVA, PYTHON.
 
 - Importantly, the protocol buffer format supports the idea of extending the format over time in such a way that the code can still read data encoded with the old format.
 
-Let's work with a simple example. 
+Let's work with a simple example.
+- ```touch example.proto```
+
+ Create an empty example.proto file.
