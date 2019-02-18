@@ -1,8 +1,20 @@
 ---
 layout: default
 ---
+# TensorFlow TFRecords
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+If you are familar with TensorFlow you often find TFRecords, protocol buffers and prototext files in object detection API. Let's walk through this simple tutorial to get you started on each of these topics
+
+## Protocol buffers
+
+- Protocol buffers are Google's language-neutral, platform-neutral, extensible mechansim for serializing structured data. It's faster and simpler. It has support for
+C++, C#, DART, GO, JAVA, PYTHON.
+
+- With protocol buffers, you write a ``.proto``` description of the data structure you want to store.
+
+- From that, protocol buffer compiler creates a class that implements automatic encoding and parsing of the protocol buffer data with efficient binary format.
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +132,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
