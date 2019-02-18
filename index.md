@@ -16,6 +16,20 @@ C++, C#, DART, GO, JAVA, PYTHON.
 - Importantly, the protocol buffer format supports the idea of extending the format over time in such a way that the code can still read data encoded with the old format.
 
 Let's work with a simple example.
-- ```touch example.proto```
+- ```touch example.proto```. Create an empty example.proto file.
 
- Create an empty example.proto file.
+- Open with editor example.proto, add the following code, save and close it.I will explain in detail every line.
+
+```proto2
+syntax = "proto2"
+package example;
+message ImageFile{
+  required string filename = 1;
+  required string filepath = 2;
+  optional string abssoltuepath = 3;
+  message Size{
+    required int height = 1;
+    required int width = 2;
+  }
+}
+```
