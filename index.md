@@ -1,6 +1,5 @@
-Hi, I am a post graduate student at Department of Computational and Data Sciences, Indian Institute of Scicences.I write about deep learning(as a practioner point of view), scalable data systems, analytics, and my research work. You can find tutorials of various topics.
-
-During my stay in IISc, I have finished following courses(not necessarily in chronological order).
+Hi, I am a post graduate student at Department of Computational and Data Sciences, Indian Institute of Scicences.
+Prior to admission in IISc, I finished my graduation in Integrated M.Sc.Physics(5yrs) in Indian Institute of Technology, Kharagpur. My research is focused on Graph Theory and Spectral Partitions. During my stay in IISc, I have finished following courses(not necessarily in chronological order).
 
 - Machine Learning with Large Datasets
 - Machine Learning for Signal Processing
@@ -14,8 +13,8 @@ During my stay in IISc, I have finished following courses(not necessarily in chr
 - Modeling and Simulation
 - Numerical Methods
 
+I write about deep learning(as a practioner point of view), scalable data systems, analytics, and my research work. You can find articles on various topics.
 - Topics in TensorFlow
-
   - [Protocol Buffers](./protocolbuffers.html)
 
 - Akka Tutorials(from scratch)
