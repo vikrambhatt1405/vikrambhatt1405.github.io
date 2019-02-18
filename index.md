@@ -28,14 +28,14 @@ message ImageFile{
 
   required string filename = 1;
   required string filepath = 2;
-  optional string abssoltuepath = 3;
+  optional string absoltuepath = 3;
 
   message Size{
 
     required int height = 1;
     required int width = 2;
+
   }
 
 }
-
 ```
