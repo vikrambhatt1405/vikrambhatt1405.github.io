@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: default
----
+--- -->
 # Protocol buffers
 
 - Protocol buffers are Google's language-neutral, platform-neutral, extensible mechansim for serializing structured data. It's faster and simpler. It has support for
