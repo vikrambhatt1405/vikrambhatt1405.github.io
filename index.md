@@ -14,6 +14,7 @@ C++, C#, DART, GO, JAVA, PYTHON.
 
 - From that, protocol buffer compiler creates a class that implements automatic encoding and parsing of the protocol buffer data with efficient binary format.
 
+-A simple example:
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
