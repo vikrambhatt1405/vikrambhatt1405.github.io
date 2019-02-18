@@ -18,18 +18,24 @@ C++, C#, DART, GO, JAVA, PYTHON.
 Let's work with a simple example.
 - ```touch example.proto```. Create an empty example.proto file.
 
-- Open with editor example.proto, add the following code, save and close it.I will explain in detail every line.
+- Open with editor example.proto, add the following code, save and close it. Detailed explanation follows.
 
 ```proto2
 syntax = "proto2"
 package example;
+
 message ImageFile{
+
   required string filename = 1;
   required string filepath = 2;
   optional string abssoltuepath = 3;
+
   message Size{
+
     required int height = 1;
     required int width = 2;
   }
+
 }
+
 ```
