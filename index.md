@@ -14,6 +14,9 @@ Prior to admission in IISc, I finished my graduation in Integrated M.Sc.Physics(
 - Numerical Methods
 
 I write about deep learning(as a practioner point of view), scalable data systems, analytics, and my research work. You can find articles on various topics.
+
+- [Heuristic Graph Partition Algorithm](./heuristic.html)
+
 - Topics in TensorFlow
   - [Protocol Buffers](./protocolbuffers.html)
 
