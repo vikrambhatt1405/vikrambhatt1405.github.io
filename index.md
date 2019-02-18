@@ -8,7 +8,7 @@ Prior to admission in IISc, I finished my graduation in Integrated M.Sc.Physics(
 - Finite Elements, Methods and Applications
 - Analysis-I
 - Natural Language Understanding
-- Scalable System for Data Scicences
+- Scalable System for Data Sciences
 - Numerical Linear Algebra
 - Modeling and Simulation
 - Numerical Methods
