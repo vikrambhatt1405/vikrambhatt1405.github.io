@@ -1,5 +1,5 @@
 Hi, I am a post graduate student at Department of Computational and Data Sciences, Indian Institute of Scicences.
-Prior to admission in IISc, I finished my graduation in Integrated M.Sc.Physics(5yrs) in Indian Institute of Technology, Kharagpur. My research is focused on Graph Theory and Spectral Partitions. During my stay in IISc, I have finished following courses(not necessarily in chronological order).
+Prior to admission in IISc, I finished my graduation in Integrated M.Sc.Physics(5yrs) course at Indian Institute of Technology, Kharagpur. My current research is focused on Graph Theory and Spectral Partitions. During my stay in IISc, I have finished following courses(not necessarily in chronological order).
 
 - Machine Learning with Large Datasets
 - Machine Learning for Signal Processing
